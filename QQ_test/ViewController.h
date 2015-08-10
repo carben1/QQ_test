@@ -10,6 +10,8 @@
 
 @interface ViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UIButton *image;
+@property (weak, nonatomic) IBOutlet UIScrollView *scrollview;
 
 @end
 

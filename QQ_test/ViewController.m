@@ -16,7 +16,10 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view, typically from a nib.
+    _image.frame = CGRectMake(137, 150, 70, 70);
+    _image.layer.cornerRadius = 70/2;
+    UIImage *img = [UIImage imageNamed:@"3"];
+    self.scrollview.backgroundColor = [UIColor colorWithPatternImage:img];
 }
 
 - (void)didReceiveMemoryWarning {

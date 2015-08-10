@@ -14,6 +14,9 @@
 		7CF0B9D21AA0690200849655 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CF0B9D11AA0690200849655 /* Images.xcassets */; };
 		7CF0B9D51AA0690200849655 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 7CF0B9D31AA0690200849655 /* LaunchScreen.xib */; };
 		7CF0B9E11AA0690300849655 /* QQ_testTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 7CF0B9E01AA0690300849655 /* QQ_testTests.m */; };
+		7CF0B9ED1AA06E1100849655 /* 1.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF0B9EA1AA06E1100849655 /* 1.png */; };
+		7CF0B9EE1AA06E1100849655 /* 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 7CF0B9EB1AA06E1100849655 /* 2.png */; };
+		7CF0B9EF1AA06E1100849655 /* 3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 7CF0B9EC1AA06E1100849655 /* 3.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -40,6 +43,9 @@
 		7CF0B9DA1AA0690300849655 /* QQ_testTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QQ_testTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		7CF0B9DF1AA0690300849655 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7CF0B9E01AA0690300849655 /* QQ_testTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQ_testTests.m; sourceTree = "<group>"; };
+		7CF0B9EA1AA06E1100849655 /* 1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 1.png; sourceTree = "<group>"; };
+		7CF0B9EB1AA06E1100849655 /* 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 2.png; sourceTree = "<group>"; };
+		7CF0B9EC1AA06E1100849655 /* 3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 3.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +87,9 @@
 		7CF0B9C31AA0690200849655 /* QQ_test */ = {
 			isa = PBXGroup;
 			children = (
+				7CF0B9EA1AA06E1100849655 /* 1.png */,
+				7CF0B9EB1AA06E1100849655 /* 2.png */,
+				7CF0B9EC1AA06E1100849655 /* 3.jpg */,
 				7CF0B9C81AA0690200849655 /* AppDelegate.h */,
 				7CF0B9C91AA0690200849655 /* AppDelegate.m */,
 				7CF0B9CB1AA0690200849655 /* ViewController.h */,
@@ -200,6 +209,9 @@
 			buildActionMask = 2147483647;
 			files = (
 				7CF0B9D01AA0690200849655 /* Main.storyboard in Resources */,
+				7CF0B9ED1AA06E1100849655 /* 1.png in Resources */,
+				7CF0B9EE1AA06E1100849655 /* 2.png in Resources */,
+				7CF0B9EF1AA06E1100849655 /* 3.jpg in Resources */,
 				7CF0B9D51AA0690200849655 /* LaunchScreen.xib in Resources */,
 				7CF0B9D21AA0690200849655 /* Images.xcassets in Resources */,
 			);
